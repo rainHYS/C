@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C\\\u5806\u6392\u5E8F\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6245279-F834-41B7-9064-3307ECCC209F}|\u5806\u6392\u5E8F\\\u5806\u6392\u5E8F.vcxproj|E:\\C\\\u5806\u6392\u5E8F\\\u5806\u6392\u5E8F\\heap.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E6245279-F834-41B7-9064-3307ECCC209F}|\u5806\u6392\u5E8F\\\u5806\u6392\u5E8F.vcxproj|solutionrelative:\u5806\u6392\u5E8F\\heap.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "heap.cpp",
+              "DocumentMoniker": "E:\\C\\\u5806\u6392\u5E8F\\\u5806\u6392\u5E8F\\heap.cpp",
+              "RelativeDocumentMoniker": "\u5806\u6392\u5E8F\\heap.cpp",
+              "ToolTip": "E:\\C\\\u5806\u6392\u5E8F\\\u5806\u6392\u5E8F\\heap.cpp*",
+              "RelativeToolTip": "\u5806\u6392\u5E8F\\heap.cpp*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-22T07:49:24.34Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

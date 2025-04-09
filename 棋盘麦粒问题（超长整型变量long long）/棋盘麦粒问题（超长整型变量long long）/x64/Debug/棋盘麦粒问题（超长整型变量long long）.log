@@ -1,0 +1,4 @@
+﻿D:\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(棋盘麦粒问题（超长整型变量long long）.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  huge number calculate.cpp
+D:\Code\C\棋盘麦粒问题（超长整型变量long long）\棋盘麦粒问题（超长整型变量long long）\huge number calculate.cpp(12,10): warning C4244: “+=”: 从“__int64”转换到“int”，可能丢失数据
+  棋盘麦粒问题（超长整型变量long long）.vcxproj -> D:\Code\C\棋盘麦粒问题（超长整型变量long long）\x64\Debug\棋盘麦粒问题（无符号超长整型变量unsigned long long）.exe

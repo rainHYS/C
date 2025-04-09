@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code\\C\\teachLinkTree\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8440525-9996-46EF-88ED-349FAB299619}|teachLinkTree\\teachLinkTree.vcxproj|D:\\Code\\C\\teachLinkTree\\teachLinkTree\\binaryTree.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C8440525-9996-46EF-88ED-349FAB299619}|teachLinkTree\\teachLinkTree.vcxproj|solutionrelative:teachLinkTree\\binaryTree.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "binaryTree.cpp",
+              "DocumentMoniker": "D:\\Code\\C\\teachLinkTree\\teachLinkTree\\binaryTree.cpp",
+              "RelativeDocumentMoniker": "teachLinkTree\\binaryTree.cpp",
+              "ToolTip": "D:\\Code\\C\\teachLinkTree\\teachLinkTree\\binaryTree.cpp",
+              "RelativeToolTip": "teachLinkTree\\binaryTree.cpp",
+              "ViewState": "AgIAAAMAAACgXjOKdOwswBEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-15T05:24:23.171Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

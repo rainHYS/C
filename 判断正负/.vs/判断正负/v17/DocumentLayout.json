@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C\\\u5224\u65AD\u6B63\u8D1F\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10B3E263-4811-4B95-89C8-FA97D4DE061F}|\u5224\u65AD\u6B63\u8D1F\\\u5224\u65AD\u6B63\u8D1F.vcxproj|E:\\C\\\u5224\u65AD\u6B63\u8D1F\\\u5224\u65AD\u6B63\u8D1F\\checkPN.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{10B3E263-4811-4B95-89C8-FA97D4DE061F}|\u5224\u65AD\u6B63\u8D1F\\\u5224\u65AD\u6B63\u8D1F.vcxproj|solutionrelative:\u5224\u65AD\u6B63\u8D1F\\checkPN.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "checkPN.cpp",
+              "DocumentMoniker": "E:\\C\\\u5224\u65AD\u6B63\u8D1F\\\u5224\u65AD\u6B63\u8D1F\\checkPN.cpp",
+              "RelativeDocumentMoniker": "\u5224\u65AD\u6B63\u8D1F\\checkPN.cpp",
+              "ToolTip": "E:\\C\\\u5224\u65AD\u6B63\u8D1F\\\u5224\u65AD\u6B63\u8D1F\\checkPN.cpp",
+              "RelativeToolTip": "\u5224\u65AD\u6B63\u8D1F\\checkPN.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-22T07:28:46.511Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

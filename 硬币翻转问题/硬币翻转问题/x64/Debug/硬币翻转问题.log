@@ -1,0 +1,3 @@
+﻿  coin.cpp
+E:\C\硬币翻转问题\硬币翻转问题\coin.cpp(20,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  硬币翻转问题.vcxproj -> E:\C\硬币翻转问题\x64\Debug\硬币翻转问题.exe

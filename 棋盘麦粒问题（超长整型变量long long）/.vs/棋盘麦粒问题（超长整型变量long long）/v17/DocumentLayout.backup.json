@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code\\C\\\u68CB\u76D8\u9EA6\u7C92\u95EE\u9898\uFF08\u8D85\u957F\u6574\u578B\u53D8\u91CFlong long\uFF09\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92F2A47D-FCD1-4B8E-9168-2507C22338C2}|\u68CB\u76D8\u9EA6\u7C92\u95EE\u9898\uFF08\u8D85\u957F\u6574\u578B\u53D8\u91CFlong long\uFF09\\\u68CB\u76D8\u9EA6\u7C92\u95EE\u9898\uFF08\u8D85\u957F\u6574\u578B\u53D8\u91CFlong long\uFF09.vcxproj|D:\\Code\\C\\\u68CB\u76D8\u9EA6\u7C92\u95EE\u9898\uFF08\u8D85\u957F\u6574\u578B\u53D8\u91CFlong long\uFF09\\\u68CB\u76D8\u9EA6\u7C92\u95EE\u9898\uFF08\u8D85\u957F\u6574\u578B\u53D8\u91CFlong long\uFF09\\huge number calculate.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92F2A47D-FCD1-4B8E-9168-2507C22338C2}|\u68CB\u76D8\u9EA6\u7C92\u95EE\u9898\uFF08\u8D85\u957F\u6574\u578B\u53D8\u91CFlong long\uFF09\\\u68CB\u76D8\u9EA6\u7C92\u95EE\u9898\uFF08\u8D85\u957F\u6574\u578B\u53D8\u91CFlong long\uFF09.vcxproj|solutionrelative:\u68CB\u76D8\u9EA6\u7C92\u95EE\u9898\uFF08\u8D85\u957F\u6574\u578B\u53D8\u91CFlong long\uFF09\\huge number calculate.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "huge number calculate.cpp",
+              "DocumentMoniker": "D:\\Code\\C\\\u68CB\u76D8\u9EA6\u7C92\u95EE\u9898\uFF08\u8D85\u957F\u6574\u578B\u53D8\u91CFlong long\uFF09\\\u68CB\u76D8\u9EA6\u7C92\u95EE\u9898\uFF08\u8D85\u957F\u6574\u578B\u53D8\u91CFlong long\uFF09\\huge number calculate.cpp",
+              "RelativeDocumentMoniker": "\u68CB\u76D8\u9EA6\u7C92\u95EE\u9898\uFF08\u8D85\u957F\u6574\u578B\u53D8\u91CFlong long\uFF09\\huge number calculate.cpp",
+              "ToolTip": "D:\\Code\\C\\\u68CB\u76D8\u9EA6\u7C92\u95EE\u9898\uFF08\u8D85\u957F\u6574\u578B\u53D8\u91CFlong long\uFF09\\\u68CB\u76D8\u9EA6\u7C92\u95EE\u9898\uFF08\u8D85\u957F\u6574\u578B\u53D8\u91CFlong long\uFF09\\huge number calculate.cpp*",
+              "RelativeToolTip": "\u68CB\u76D8\u9EA6\u7C92\u95EE\u9898\uFF08\u8D85\u957F\u6574\u578B\u53D8\u91CFlong long\uFF09\\huge number calculate.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-16T02:08:02.814Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
