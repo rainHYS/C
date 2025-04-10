@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\C\\\u5927\u6570\u8FD0\u7B97\\",
+  "WorkspaceRootPath": "E:\\C\\C\\\u5927\u6570\u8FD0\u7B97\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{78B3D3EE-A15C-478A-B4B5-110B245CD746}|\u5927\u6570\u8FD0\u7B97\\\u5927\u6570\u8FD0\u7B97.vcxproj|E:\\C\\\u5927\u6570\u8FD0\u7B97\\\u5927\u6570\u8FD0\u7B97\\calculateHugeNumber.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{78B3D3EE-A15C-478A-B4B5-110B245CD746}|\u5927\u6570\u8FD0\u7B97\\\u5927\u6570\u8FD0\u7B97.vcxproj|E:\\C\\C\\\u5927\u6570\u8FD0\u7B97\\\u5927\u6570\u8FD0\u7B97\\calculateHugeNumber.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{78B3D3EE-A15C-478A-B4B5-110B245CD746}|\u5927\u6570\u8FD0\u7B97\\\u5927\u6570\u8FD0\u7B97.vcxproj|solutionrelative:\u5927\u6570\u8FD0\u7B97\\calculateHugeNumber.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -14,19 +14,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "calculateHugeNumber.cpp",
-              "DocumentMoniker": "E:\\C\\\u5927\u6570\u8FD0\u7B97\\\u5927\u6570\u8FD0\u7B97\\calculateHugeNumber.cpp",
+              "DocumentMoniker": "E:\\C\\C\\\u5927\u6570\u8FD0\u7B97\\\u5927\u6570\u8FD0\u7B97\\calculateHugeNumber.cpp",
               "RelativeDocumentMoniker": "\u5927\u6570\u8FD0\u7B97\\calculateHugeNumber.cpp",
-              "ToolTip": "E:\\C\\\u5927\u6570\u8FD0\u7B97\\\u5927\u6570\u8FD0\u7B97\\calculateHugeNumber.cpp",
+              "ToolTip": "E:\\C\\C\\\u5927\u6570\u8FD0\u7B97\\\u5927\u6570\u8FD0\u7B97\\calculateHugeNumber.cpp",
               "RelativeToolTip": "\u5927\u6570\u8FD0\u7B97\\calculateHugeNumber.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-28T09:06:34.885Z",
+              "WhenOpened": "2025-04-10T03:40:20.308Z",
               "EditorCaption": ""
             }
           ]
