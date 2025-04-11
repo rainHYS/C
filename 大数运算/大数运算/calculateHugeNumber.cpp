@@ -1,53 +1,57 @@
 #include <iostream>
-#include <math.h>
+#include <string>
 using namespace std;
-
-// 请使用运算符重载实现
 
 class calculator {
 private:
 	string array;
 	int arrayLength;
 public:
-	// 构造函数，直接将数据转换成数组
+	// 构造函数
 	calculator() {
 		string tempArray;
 		cout << "请输入大数：";
 		cin >> tempArray;
-		arrayLength = tempArray.length();
-		array.resize(arrayLength);  // 先给array分配空间
+		arrayLength = (int)tempArray.length();
+		array.resize(arrayLength);
 		for (int i = 0; i < arrayLength; i++) {
-			array[i] = tempArray[arrayLength - 1 - i];
+			array[i] = tempArray[arrayLength - 1 - i]; // 反着存储，个位在前
 		}
-		for (int i = 0; i < arrayLength; i++) {
-			cout << array[i];
-		}
-		cout << endl;
 	}
-	// addend n.加数
-	// augend n.被加数
-	calculator operator +(calculator& augend) {
-		string arraySum;
-		int carry=0;
-		for (int i = 0; i < max(this->arrayLength, augend.arrayLength); i++) {
-			arraySum[i] = this->array[i] + augend.array[i]+carry;
-			if (arraySum[i] > 9) {
-				carry = 1;
-				arraySum[i] -= 10;
-			}
-			else {
-				carry = 0;
-			}
+
+	// 内部构造函数
+	calculator(string s) : array(s), arrayLength((int)s.length()) {}
+
+	// 加法运算符重载
+	calculator operator+(calculator& augend) {
+		string result;
+		int carry = 0;
+		int maxLength = max(this->arrayLength, augend.arrayLength);
+
+		for (int i = 0; i < maxLength || carry; i++) {
+			int digit1 = (i < this->arrayLength) ? (this->array[i] - '0') : 0;
+			int digit2 = (i < augend.arrayLength) ? (augend.array[i] - '0') : 0;
+
+			int sum = digit1 + digit2 + carry;
+			carry = sum / 10;
+			result.push_back((sum % 10) + '0');
 		}
-		if (carry) {
-			carry += '0';
-		}
-		
-		return 
+
+		// 反转回正确的顺序
+		reverse(result.begin(), result.end());
+		return calculator(result);
+	}
+
+	void display() {
+		// 已经是正序存储，直接输出
+		cout << array << endl;
 	}
 };
 
 int main() {
 	calculator a, b;
-
+	calculator c = a + b;
+	cout << "相加结果：";
+	c.display();
+	return 0;
 }

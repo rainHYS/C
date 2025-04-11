@@ -1,4 +1,2 @@
 ﻿  calculateHugeNumber.cpp
-E:\Code\大数运算\大数运算\calculateHugeNumber.cpp(17,33): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
-E:\Code\大数运算\大数运算\calculateHugeNumber.cpp(32,23): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
   大数运算.vcxproj -> E:\Code\大数运算\x64\Debug\大数运算.exe
