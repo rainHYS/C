@@ -21,7 +21,7 @@ using namespace std;
 // 1 2 
 // 1 2 3 
 
-// 头脑风暴写出来的程序，使用了伪递归实现，本质上其实是递推，为错解
+// 自己头脑风暴写出来的程序，使用了伪递归实现，本质上其实是递推，为错解
 void recurrenceEnum(int n, int max) {
 	if (n == 0) {
 		return;
@@ -35,7 +35,14 @@ void recurrenceEnum(int n, int max) {
 	recurrenceEnum(n - 1, max);
 }
 
-// 正确答案，使用递归实现
+// 正确答案，使用递归二叉树实现
+// 思路：
+// 要输出所有可能子序列，可以这么处理：
+//             1
+//	      出现/  \不出现
+//		     2   2
+//  	    / \ / \
+//          3 3 3 3
 void recursionEnum(int n){
 
 }
