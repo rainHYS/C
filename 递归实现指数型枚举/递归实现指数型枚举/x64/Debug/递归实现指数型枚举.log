@@ -1,0 +1,2 @@
+﻿recursionEnum.obj : error LNK2005: main 已经在 recurrenceEnum.obj 中定义
+E:\Code\递归实现指数型枚举\x64\Debug\递归实现指数型枚举.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
