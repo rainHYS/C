@@ -35,16 +35,30 @@ void recurrenceEnum(int n, int max) {
 	recurrenceEnum(n - 1, max);
 }
 
-// 正确答案，使用递归二叉树实现
+// 正确答案，使用DFS（深度优先算法）和递归搜索树实现
 // 思路：
 // 要输出所有可能子序列，可以这么处理：
-//             1
-//	      出现/  \不出现
-//		     2   2
-//  	    / \ / \
-//          3 3 3 3
-void recursionEnum(int n){
+// 假定一个数组status表示各个数的状态，0代表×，1代表√，2代表还不确定：
+//                1     2      3
+//                ?     ?      ?
+//	        出现/                 \不出现
+//		     1 2 3               1 2 3
+//           √ ? ?               × ? ? 
+//  	    /      \            /      \ 
+//        123      123        123      123
+//        √√?      √×?        ×√?      ××?
+//       /  \     /   \      /  \     /   \
+//     123  123  123  123  123  123  123  123
+//     √√√  √√×  √×√  √××  ×√√  ×√×  ××√  ××× 
 
+void recursionEnum(int n) {
+	if (n == 0) {
+		return;
+	}
+	recursionEnum(n);
+	cout << n << " ";
+	recursionEnum(n - 1);
+	cout << endl;
 }
 
 int main() {

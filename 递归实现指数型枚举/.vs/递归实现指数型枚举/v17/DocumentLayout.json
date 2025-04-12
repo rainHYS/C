@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\Code\\\u9012\u5F52\u5B9E\u73B0\u6307\u6570\u578B\u679A\u4E3E\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17F3D22C-733E-450D-843F-4A087726DE5B}|\u9012\u5F52\u5B9E\u73B0\u6307\u6570\u578B\u679A\u4E3E\\\u9012\u5F52\u5B9E\u73B0\u6307\u6570\u578B\u679A\u4E3E.vcxproj|E:\\Code\\\u9012\u5F52\u5B9E\u73B0\u6307\u6570\u578B\u679A\u4E3E\\\u9012\u5F52\u5B9E\u73B0\u6307\u6570\u578B\u679A\u4E3E\\recursionEnum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{17F3D22C-733E-450D-843F-4A087726DE5B}|\u9012\u5F52\u5B9E\u73B0\u6307\u6570\u578B\u679A\u4E3E\\\u9012\u5F52\u5B9E\u73B0\u6307\u6570\u578B\u679A\u4E3E.vcxproj|solutionrelative:\u9012\u5F52\u5B9E\u73B0\u6307\u6570\u578B\u679A\u4E3E\\recursionEnum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,6 +31,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "recursionEnum.cpp",
+              "DocumentMoniker": "E:\\Code\\\u9012\u5F52\u5B9E\u73B0\u6307\u6570\u578B\u679A\u4E3E\\\u9012\u5F52\u5B9E\u73B0\u6307\u6570\u578B\u679A\u4E3E\\recursionEnum.cpp",
+              "RelativeDocumentMoniker": "\u9012\u5F52\u5B9E\u73B0\u6307\u6570\u578B\u679A\u4E3E\\recursionEnum.cpp",
+              "ToolTip": "E:\\Code\\\u9012\u5F52\u5B9E\u73B0\u6307\u6570\u578B\u679A\u4E3E\\\u9012\u5F52\u5B9E\u73B0\u6307\u6570\u578B\u679A\u4E3E\\recursionEnum.cpp",
+              "RelativeToolTip": "\u9012\u5F52\u5B9E\u73B0\u6307\u6570\u578B\u679A\u4E3E\\recursionEnum.cpp",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAC8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-12T06:30:59.758Z",
+              "EditorCaption": ""
             }
           ]
         }
