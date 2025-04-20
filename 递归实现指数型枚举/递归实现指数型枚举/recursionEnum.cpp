@@ -14,14 +14,16 @@ using namespace std;
 // 3
 
 // 输出样例：
+// 
 // 3 
 // 2 
 // 2 3 
 // 1 
+// 1 3 
 // 1 2 
 // 1 2 3 
 
-// 自己头脑风暴写出来的程序，使用了伪递归实现，本质上其实是递推，为错解
+// 自己头脑风暴写出来的程序，使用了伪递归实现，本质上其实是递推，而且结果少一个“1 3 ”
 void recurrenceEnum(int n, int max) {
 	if (n == 0) {
 		return;
@@ -38,7 +40,7 @@ void recurrenceEnum(int n, int max) {
 // 正确答案，使用DFS（深度优先算法）和递归搜索树实现
 // 思路：
 // 要输出所有可能子序列，可以这么处理：
-// 假定一个数组status表示各个数的状态，0代表×，1代表√，2代表还不确定：
+// 假定一个布尔类型的数组status表示各个数的状态：
 //                1     2      3
 //                ?     ?      ?
 //	        出现/                 \不出现
@@ -50,22 +52,42 @@ void recurrenceEnum(int n, int max) {
 //       /  \     /   \      /  \     /   \
 //     123  123  123  123  123  123  123  123
 //     √√√  √√×  √×√  √××  ×√√  ×√×  ××√  ××× 
+// 观察这颗树，我们可以直观地看到所有的可能都在叶节点上，我们只需要从右往左输出叶节点即可
 
-void recursionEnum(int n) {
-	if (n == 0) {
+void recursionEnum(int n, int max, bool status[]) {
+	if (n > max) {  // 修改终止条件
+		for (int i = 1; i <= max; i++) {  // 从1开始检查
+			if (status[i]) {
+				cout << i << " ";
+			}
+		}
+		cout << endl;
 		return;
 	}
-	recursionEnum(n);
-	cout << n << " ";
-	recursionEnum(n - 1);
-	cout << endl;
+
+	// 不选当前数字
+	status[n] = false;
+	recursionEnum(n + 1, max, status);
+
+	// 选当前数字
+	status[n] = true;
+	recursionEnum(n + 1, max, status);
 }
 
 int main() {
 	int n;
 	cout << "请输入n：";
 	cin >> n;
+
 	int max = n;
+	cout << "递推实现输出（只能生成连续子序列，少“1 3 ”）：" << endl;
 	recurrenceEnum(n, max);
-	recursionEnum(n);
+	cout << "--------------------------------------------" << endl;
+
+	cout << "DFS深度优先+递归搜索树方法输出：" << endl;
+	bool* status = new bool[n + 1]();  // 索引1到n对应数字1到n
+	recursionEnum(1, max, status);  // 从1开始递归
+
+	delete[] status;
+	return 0;
 }
