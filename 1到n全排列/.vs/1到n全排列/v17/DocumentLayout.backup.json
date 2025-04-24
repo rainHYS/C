@@ -13,7 +13,7 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
+          "DockedWidth": 179,
           "SelectedChildIndex": 4,
           "Children": [
             {
@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "1\u5230n\u5168\u6392\u5217\\recursionPermutations.cpp",
               "ToolTip": "E:\\Code\\1\u5230n\u5168\u6392\u5217\\1\u5230n\u5168\u6392\u5217\\recursionPermutations.cpp",
               "RelativeToolTip": "1\u5230n\u5168\u6392\u5217\\recursionPermutations.cpp",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAxwBMAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAADAFLwmAe8vwCAAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-20T11:25:33.344Z",
               "EditorCaption": ""
