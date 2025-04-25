@@ -38,6 +38,7 @@ void recursionPermutations(int n, int max, bool status[], int result[]) {
 			result[n] = 0;
 		}
 	}
+	return;
 }
 
 int main() {

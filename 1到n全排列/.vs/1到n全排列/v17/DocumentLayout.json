@@ -14,15 +14,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 179,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Bookmark",
@@ -40,7 +36,7 @@
               "RelativeDocumentMoniker": "1\u5230n\u5168\u6392\u5217\\recursionPermutations.cpp",
               "ToolTip": "E:\\Code\\1\u5230n\u5168\u6392\u5217\\1\u5230n\u5168\u6392\u5217\\recursionPermutations.cpp",
               "RelativeToolTip": "1\u5230n\u5168\u6392\u5217\\recursionPermutations.cpp",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAUwB0AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAC4AAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-20T11:25:33.344Z",
               "EditorCaption": ""
