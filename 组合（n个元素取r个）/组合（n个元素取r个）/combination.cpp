@@ -16,7 +16,7 @@ using namespace std;
 // 每个元素占三个字符的位置，所有的组合也按字典顺序。
 
 void recursionCombination(int current, int maxN, int maxR, int result[], bool status[]) {
-	if (current > maxN) {
+	if (current > maxR) {
 		for (int i = 1; i <= maxR; i++) {
 			cout << result[i] << " ";
 		}
@@ -24,12 +24,12 @@ void recursionCombination(int current, int maxN, int maxR, int result[], bool st
 		return;
 	}
 	for (int i = 1; i <= maxN; i++) {
-		if (!status[i]) {
+		if (!status[i] && i > result[current - 1]) {
 			status[i] = true;
-			result[i] = i;
+			result[current] = i;
 			recursionCombination(current + 1, maxN, maxR, result, status);
 			status[i] = false;
-			result[i] = 0;
+			result[current] = 0;
 		}
 	}
 	return;
@@ -41,6 +41,6 @@ int main() {
 	int* result = new int[r + 1]();
 	bool* status = new bool[n + 1]();
 	recursionCombination(1, n, r, result, status);
-	
+
 	return 0;
 }

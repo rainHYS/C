@@ -1,12 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\Code\\\u7EC4\u5408\uFF08n\u4E2A\u5143\u7D20\u53D6r\u4E2A\uFF09\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{F6CEB136-E2E9-43C5-A350-64C63078421F}|\u7EC4\u5408\uFF08n\u4E2A\u5143\u7D20\u53D6r\u4E2A\uFF09\\\u7EC4\u5408\uFF08n\u4E2A\u5143\u7D20\u53D6r\u4E2A\uFF09.vcxproj|E:\\Code\\\u7EC4\u5408\uFF08n\u4E2A\u5143\u7D20\u53D6r\u4E2A\uFF09\\\u7EC4\u5408\uFF08n\u4E2A\u5143\u7D20\u53D6r\u4E2A\uFF09\\combination.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F6CEB136-E2E9-43C5-A350-64C63078421F}|\u7EC4\u5408\uFF08n\u4E2A\u5143\u7D20\u53D6r\u4E2A\uFF09\\\u7EC4\u5408\uFF08n\u4E2A\u5143\u7D20\u53D6r\u4E2A\uFF09.vcxproj|solutionrelative:\u7EC4\u5408\uFF08n\u4E2A\u5143\u7D20\u53D6r\u4E2A\uFF09\\combination.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 179,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -27,19 +22,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "combination.cpp",
-              "DocumentMoniker": "E:\\Code\\\u7EC4\u5408\uFF08n\u4E2A\u5143\u7D20\u53D6r\u4E2A\uFF09\\\u7EC4\u5408\uFF08n\u4E2A\u5143\u7D20\u53D6r\u4E2A\uFF09\\combination.cpp",
-              "RelativeDocumentMoniker": "\u7EC4\u5408\uFF08n\u4E2A\u5143\u7D20\u53D6r\u4E2A\uFF09\\combination.cpp",
-              "ToolTip": "E:\\Code\\\u7EC4\u5408\uFF08n\u4E2A\u5143\u7D20\u53D6r\u4E2A\uFF09\\\u7EC4\u5408\uFF08n\u4E2A\u5143\u7D20\u53D6r\u4E2A\uFF09\\combination.cpp",
-              "RelativeToolTip": "\u7EC4\u5408\uFF08n\u4E2A\u5143\u7D20\u53D6r\u4E2A\uFF09\\combination.cpp",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAmwBkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-25T12:01:51.577Z",
-              "EditorCaption": ""
             }
           ]
         }
