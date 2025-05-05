@@ -26,7 +26,7 @@ void recursionSum(int current, int maxN, int maxK, int num[], int result[], bool
 			sum = sum + result[i];
 		}
 		bool check = true;
-		for (int i = 2; i < sum; i++) {
+		for (int i = 2; i < sqrt(sum); i++) {
 			if (!(sum % i)) {
 				check = false;
 				break;
