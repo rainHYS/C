@@ -42,9 +42,8 @@ using namespace std;
 // 输出格式
 // N 个整数，表示改变后的火星人手指的排列顺序。每两个相邻的数中间用一个空格分开，不能有多余的空格。
 
-int N, M, cal = 0;
-int* currentFinger,*marsFinger, ** result;
-bool* status;
+int N, M, cal = 0, location = 0, * currentFinger, * marsFinger, ** result;
+bool same, * status;
 
 int permutation(int n) {
 	if (n == 1) {
@@ -55,9 +54,21 @@ int permutation(int n) {
 
 void calcular(int current) {
 	if (current > N) {
+		same = true;
 		cal++;
+		// 存储当前排列到二维数组result中
 		for (int i = 1; i <= N; i++) {
-			result[cal][i] = currentFinger[i];  // 存储当前排列
+			result[cal][i] = currentFinger[i];
+		}
+		// 判断当前序列与火星人手指是否一致
+		for (int i = 1; i <= N; i++) {
+			if (marsFinger[i] != currentFinger[i]) {
+				same = false;
+				break;
+			}
+		}
+		if (same) {
+			location = cal;
 		}
 		return;
 	}
@@ -82,17 +93,20 @@ int main() {
 	for (int i = 0; i <= permutation(N); i++) {
 		result[i] = new int[N + 1]();  // 每行存储一个排列
 	}
+	// 把火星人手指存进marsFinger中
 	for (int i = 1; i <= N; i++) {
 		cin >> marsFinger[i];
 	}
+	// 开始递归
 	calcular(1);
-
-
-	// 输出第M个排列（从1开始计数）
-	for (int i = 1; i <= permutation(N); i++) {
-		for (int j = 1; j <= N; j++) {
-			cout << result[i][j] << " ";
-		}
-		cout << endl;
+	// 输出和火星人相同的手指序列
+	for (int i = 1; i <= N; i++) {
+		cout << result[location][i] << " ";
 	}
+	cout << "表示数字" << location << endl;
+	// 输出加完数字之后得到的的手指序列和对应的数字
+	for (int i = 1; i <= N; i++) {
+		cout << result[location+M][i] << " ";
+	}
+	cout << "表示数字" << location+M << endl;
 }
