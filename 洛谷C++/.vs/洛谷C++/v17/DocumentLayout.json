@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Code\\CPlus\\\u6D1B\u8C37C\u002B\u002B\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3CF11D-D7E2-4D86-B666-7C6744EB5E72}|P2089 \u70E4\u9E21\\P2089 \u70E4\u9E21.vcxproj|E:\\Code\\CPlus\\\u6D1B\u8C37C\u002B\u002B\\P2089 \u70E4\u9E21\\roastChicken.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8F3CF11D-D7E2-4D86-B666-7C6744EB5E72}|P2089 \u70E4\u9E21\\P2089 \u70E4\u9E21.vcxproj|solutionrelative:P2089 \u70E4\u9E21\\roastChicken.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0D4C4D4-A621-4455-BE8D-86F4310CD509}|P1088 \u706B\u661F\u4EBA\\P1088 \u706B\u661F\u4EBA.vcxproj|E:\\Code\\CPlus\\\u6D1B\u8C37C\u002B\u002B\\P1088 \u706B\u661F\u4EBA\\mars.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F0D4C4D4-A621-4455-BE8D-86F4310CD509}|P1088 \u706B\u661F\u4EBA\\P1088 \u706B\u661F\u4EBA.vcxproj|solutionrelative:P1088 \u706B\u661F\u4EBA\\mars.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB89EF84-7753-411B-BD86-1FBDD2595D7B}|P1149 \u706B\u67F4\u68D2\u7B49\u5F0F\\P1149 \u706B\u67F4\u68D2\u7B49\u5F0F.vcxproj|E:\\Code\\CPlus\\\u6D1B\u8C37C\u002B\u002B\\P1149 \u706B\u67F4\u68D2\u7B49\u5F0F\\matchstickEquation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AB89EF84-7753-411B-BD86-1FBDD2595D7B}|P1149 \u706B\u67F4\u68D2\u7B49\u5F0F\\P1149 \u706B\u67F4\u68D2\u7B49\u5F0F.vcxproj|solutionrelative:P1149 \u706B\u67F4\u68D2\u7B49\u5F0F\\matchstickEquation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "roastChicken.cpp",
+              "DocumentMoniker": "E:\\Code\\CPlus\\\u6D1B\u8C37C\u002B\u002B\\P2089 \u70E4\u9E21\\roastChicken.cpp",
+              "RelativeDocumentMoniker": "P2089 \u70E4\u9E21\\roastChicken.cpp",
+              "ToolTip": "E:\\Code\\CPlus\\\u6D1B\u8C37C\u002B\u002B\\P2089 \u70E4\u9E21\\roastChicken.cpp",
+              "RelativeToolTip": "P2089 \u70E4\u9E21\\roastChicken.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-13T07:37:42.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "mars.cpp",
+              "DocumentMoniker": "E:\\Code\\CPlus\\\u6D1B\u8C37C\u002B\u002B\\P1088 \u706B\u661F\u4EBA\\mars.cpp",
+              "RelativeDocumentMoniker": "P1088 \u706B\u661F\u4EBA\\mars.cpp",
+              "ToolTip": "E:\\Code\\CPlus\\\u6D1B\u8C37C\u002B\u002B\\P1088 \u706B\u661F\u4EBA\\mars.cpp",
+              "RelativeToolTip": "P1088 \u706B\u661F\u4EBA\\mars.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-13T07:34:59.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "matchstickEquation.cpp",
+              "DocumentMoniker": "E:\\Code\\CPlus\\\u6D1B\u8C37C\u002B\u002B\\P1149 \u706B\u67F4\u68D2\u7B49\u5F0F\\matchstickEquation.cpp",
+              "RelativeDocumentMoniker": "P1149 \u706B\u67F4\u68D2\u7B49\u5F0F\\matchstickEquation.cpp",
+              "ToolTip": "E:\\Code\\CPlus\\\u6D1B\u8C37C\u002B\u002B\\P1149 \u706B\u67F4\u68D2\u7B49\u5F0F\\matchstickEquation.cpp",
+              "RelativeToolTip": "P1149 \u706B\u67F4\u68D2\u7B49\u5F0F\\matchstickEquation.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-13T07:33:47.193Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
