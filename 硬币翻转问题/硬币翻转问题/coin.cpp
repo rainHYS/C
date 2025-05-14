@@ -25,10 +25,10 @@ int main() {
 			}
 			count++;
 		}
-		for (int j = 0; j < coinList.length(); j++) {
+		/*for (int j = 0; j < coinList.length(); j++) {
 			cout << coinList[j];
 		}
-		cout << endl;
+		cout << endl;*/
 	}
 	cout << count;
 }
