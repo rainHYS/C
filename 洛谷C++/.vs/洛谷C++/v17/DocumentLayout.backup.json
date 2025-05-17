@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "E:\\Code\\CPlus\\\u6D1B\u8C37C\u002B\u002B\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6EA3C34D-0F67-41AF-9396-BEEAB0FAD8F4}|P2670 [NOIP 2015 \u666E\u53CA\u7EC4] \u626B\u96F7\u6E38\u620F\\P2670 [NOIP 2015 \u666E\u53CA\u7EC4] \u626B\u96F7\u6E38\u620F.vcxproj|E:\\Code\\CPlus\\\u6D1B\u8C37C\u002B\u002B\\P2670 [NOIP 2015 \u666E\u53CA\u7EC4] \u626B\u96F7\u6E38\u620F\\mineSweeper.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6EA3C34D-0F67-41AF-9396-BEEAB0FAD8F4}|P2670 [NOIP 2015 \u666E\u53CA\u7EC4] \u626B\u96F7\u6E38\u620F\\P2670 [NOIP 2015 \u666E\u53CA\u7EC4] \u626B\u96F7\u6E38\u620F.vcxproj|solutionrelative:P2670 [NOIP 2015 \u666E\u53CA\u7EC4] \u626B\u96F7\u6E38\u620F\\mineSweeper.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{1BDEED70-9ED2-41BE-B953-372644273A50}|U459986 \u5C06\u6574\u6570\u6362\u6210\u5206\u6570\\U459986 \u5C06\u6574\u6570\u6362\u6210\u5206\u6570.vcxproj|E:\\Code\\CPlus\\\u6D1B\u8C37C\u002B\u002B\\U459986 \u5C06\u6574\u6570\u6362\u6210\u5206\u6570\\integerToFraction.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1BDEED70-9ED2-41BE-B953-372644273A50}|U459986 \u5C06\u6574\u6570\u6362\u6210\u5206\u6570\\U459986 \u5C06\u6574\u6570\u6362\u6210\u5206\u6570.vcxproj|solutionrelative:U459986 \u5C06\u6574\u6570\u6362\u6210\u5206\u6570\\integerToFraction.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,14 +35,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "mineSweeper.cpp",
-              "DocumentMoniker": "E:\\Code\\CPlus\\\u6D1B\u8C37C\u002B\u002B\\P2670 [NOIP 2015 \u666E\u53CA\u7EC4] \u626B\u96F7\u6E38\u620F\\mineSweeper.cpp",
-              "RelativeDocumentMoniker": "P2670 [NOIP 2015 \u666E\u53CA\u7EC4] \u626B\u96F7\u6E38\u620F\\mineSweeper.cpp",
-              "ToolTip": "E:\\Code\\CPlus\\\u6D1B\u8C37C\u002B\u002B\\P2670 [NOIP 2015 \u666E\u53CA\u7EC4] \u626B\u96F7\u6E38\u620F\\mineSweeper.cpp",
-              "RelativeToolTip": "P2670 [NOIP 2015 \u666E\u53CA\u7EC4] \u626B\u96F7\u6E38\u620F\\mineSweeper.cpp",
-              "ViewState": "AgIAADAAAAAAAAAAAAAgwEEAAAASAAAAAAAAAA==",
+              "Title": "integerToFraction.cpp",
+              "DocumentMoniker": "E:\\Code\\CPlus\\\u6D1B\u8C37C\u002B\u002B\\U459986 \u5C06\u6574\u6570\u6362\u6210\u5206\u6570\\integerToFraction.cpp",
+              "RelativeDocumentMoniker": "U459986 \u5C06\u6574\u6570\u6362\u6210\u5206\u6570\\integerToFraction.cpp",
+              "ToolTip": "E:\\Code\\CPlus\\\u6D1B\u8C37C\u002B\u002B\\U459986 \u5C06\u6574\u6570\u6362\u6210\u5206\u6570\\integerToFraction.cpp*",
+              "RelativeToolTip": "U459986 \u5C06\u6574\u6570\u6362\u6210\u5206\u6570\\integerToFraction.cpp*",
+              "ViewState": "AgIAACMAAAAAAAAAAAAywDQAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-15T12:17:27.641Z",
+              "WhenOpened": "2025-05-17T04:52:12.562Z",
               "EditorCaption": ""
             }
           ]

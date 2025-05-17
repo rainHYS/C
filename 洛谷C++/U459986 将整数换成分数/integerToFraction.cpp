@@ -22,35 +22,68 @@ using namespace std;
 
 // 输出样例
 // 11
-int count;
-int oneToNine[10] = { 0 };	//	0代表未使用，1代表已使用，2代表已在a里面
 
-void recADigit(int i) {	// 递归，将a所包含的数在oneToNine里面置为2
-	if (i == 0) {
+// -----------------------------------------------------------------
+
+// 自己写的思路：先分位数再排列
+int n;
+int cnt;
+int digitCount[4];     // a, b, c的位数
+int digitValue[10];    // 存储1~9的某个排列
+bool oneToNine[10] = { 0 }; // 标记数字是否使用过
+
+void permOneToNine(int pos, int max) {
+	if (pos > max) {
+		int a = 0, b = 0, c = 0;
+		int index = 1;
+		// 构造a
+		for (int i = 0; i < digitCount[1]; i++) {
+			a = a * 10 + digitValue[index++];
+		}
+		// 构造b
+		for (int i = 0; i < digitCount[2]; i++) {
+			b = b * 10 + digitValue[index++];
+		}
+		// 构造c
+		for (int i = 0; i < digitCount[3]; i++) {
+			c = c * 10 + digitValue[index++];
+		}
+		// 判断是否符合 n = a + b / c ，转成乘法避免浮点数问题
+		if (c != 0 && c * (n - a) == b) {
+			cnt++;
+		}
 		return;
 	}
-	oneToNine[i % 10] = 2;
-	return recADigit(i / 10);
+
+	for (int i = 1; i <= 9; i++) {
+		if (!oneToNine[i]) {
+			oneToNine[i] = true;
+			digitValue[pos] = i;
+			permOneToNine(pos + 1, max);
+			oneToNine[i] = false;
+			digitValue[pos] = 0;
+		}
+	}
 }
 
-void recBDigit(int product) {	// 递归，查验乘积结果是否有重复用过数位
-	if (oneToNine[product % 10] != 0) {
+void permDigit(int current, int sum) {
+	if (current > 3) {
+		if (sum == 9) {
+			permOneToNine(1, 9);
+		}
 		return;
 	}
-	else {
-		return recBDigit(product / 10);
-	}
-}
-
-void calA(int n) {
-	for (int i = 1; i <= n; i++) {
-		recADigit(i);
-
+	for (int i = 1; i <= 7; i++) { // 限制最长不超过9位
+		digitCount[current] = i;
+		permDigit(current + 1, sum + i);
+		digitCount[current] = 0;
 	}
 }
 
 int main() {
-	int n;
 	cin >> n;
-	calA(n);
+	cnt = 0;
+	permDigit(1, 0);
+	cout << cnt << endl;
+	return 0;
 }
