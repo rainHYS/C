@@ -50,6 +50,7 @@ void permOneToNine(int pos, int max) {
 		}
 		// 判断是否符合 n = a + b / c ，转成乘法避免浮点数问题
 		if (c != 0 && c * (n - a) == b) {
+			cout << a << " " << b << " " << c << endl;
 			cnt++;
 		}
 		return;
