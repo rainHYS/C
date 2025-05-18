@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="matchstickEquation.cpp">
+    <ClCompile Include="matchStickEquation.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

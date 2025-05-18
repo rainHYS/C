@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\Code\\CPlus\\\u6D1B\u8C37C\u002B\u002B\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39BF1208-F182-4872-BA2B-6C1334DC81B7}|P1548 [NOIP 1997 \u666E\u53CA\u7EC4] \u68CB\u76D8\u95EE\u9898\\P1548 [NOIP 1997 \u666E\u53CA\u7EC4] \u68CB\u76D8\u95EE\u9898.vcxproj|E:\\Code\\CPlus\\\u6D1B\u8C37C\u002B\u002B\\P1548 [NOIP 1997 \u666E\u53CA\u7EC4] \u68CB\u76D8\u95EE\u9898\\boardSquare.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{39BF1208-F182-4872-BA2B-6C1334DC81B7}|P1548 [NOIP 1997 \u666E\u53CA\u7EC4] \u68CB\u76D8\u95EE\u9898\\P1548 [NOIP 1997 \u666E\u53CA\u7EC4] \u68CB\u76D8\u95EE\u9898.vcxproj|solutionrelative:P1548 [NOIP 1997 \u666E\u53CA\u7EC4] \u68CB\u76D8\u95EE\u9898\\boardSquare.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,6 +31,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "boardSquare.cpp",
+              "DocumentMoniker": "E:\\Code\\CPlus\\\u6D1B\u8C37C\u002B\u002B\\P1548 [NOIP 1997 \u666E\u53CA\u7EC4] \u68CB\u76D8\u95EE\u9898\\boardSquare.cpp",
+              "RelativeDocumentMoniker": "P1548 [NOIP 1997 \u666E\u53CA\u7EC4] \u68CB\u76D8\u95EE\u9898\\boardSquare.cpp",
+              "ToolTip": "E:\\Code\\CPlus\\\u6D1B\u8C37C\u002B\u002B\\P1548 [NOIP 1997 \u666E\u53CA\u7EC4] \u68CB\u76D8\u95EE\u9898\\boardSquare.cpp",
+              "RelativeToolTip": "P1548 [NOIP 1997 \u666E\u53CA\u7EC4] \u68CB\u76D8\u95EE\u9898\\boardSquare.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-18T04:08:45.8Z",
+              "EditorCaption": ""
             }
           ]
         }

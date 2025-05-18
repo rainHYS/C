@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "E:\\Code\\CPlus\\\u6D1B\u8C37C\u002B\u002B\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AC2B704A-5F11-413E-93DE-CB84092FB0DC}|U460128 \u7FFB\u8F6C\u6570\u76F8\u4E58\\U460128 \u7FFB\u8F6C\u6570\u76F8\u4E58.vcxproj|E:\\Code\\CPlus\\\u6D1B\u8C37C\u002B\u002B\\U460128 \u7FFB\u8F6C\u6570\u76F8\u4E58\\\u6765\u81EAGPT\u7684\u5B89\u6170.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}",
-      "RelativeMoniker": "D:0:0:{AC2B704A-5F11-413E-93DE-CB84092FB0DC}|U460128 \u7FFB\u8F6C\u6570\u76F8\u4E58\\U460128 \u7FFB\u8F6C\u6570\u76F8\u4E58.vcxproj|solutionrelative:U460128 \u7FFB\u8F6C\u6570\u76F8\u4E58\\\u6765\u81EAGPT\u7684\u5B89\u6170.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}"
+      "AbsoluteMoniker": "D:0:0:{AB89EF84-7753-411B-BD86-1FBDD2595D7B}|P1149 \u706B\u67F4\u68D2\u7B49\u5F0F\\P1149 \u706B\u67F4\u68D2\u7B49\u5F0F.vcxproj|E:\\Code\\CPlus\\\u6D1B\u8C37C\u002B\u002B\\P1149 \u706B\u67F4\u68D2\u7B49\u5F0F\\matchstickEquation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AB89EF84-7753-411B-BD86-1FBDD2595D7B}|P1149 \u706B\u67F4\u68D2\u7B49\u5F0F\\P1149 \u706B\u67F4\u68D2\u7B49\u5F0F.vcxproj|solutionrelative:P1149 \u706B\u67F4\u68D2\u7B49\u5F0F\\matchstickEquation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B0D458-BB39-4C36-842C-41C4ADF95E24}|P1157 \u7EC4\u5408\u7684\u8F93\u51FA\\P1157 \u7EC4\u5408\u7684\u8F93\u51FA.vcxproj|E:\\Code\\CPlus\\\u6D1B\u8C37C\u002B\u002B\\P1157 \u7EC4\u5408\u7684\u8F93\u51FA\\recursionCombination.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{99B0D458-BB39-4C36-842C-41C4ADF95E24}|P1157 \u7EC4\u5408\u7684\u8F93\u51FA\\P1157 \u7EC4\u5408\u7684\u8F93\u51FA.vcxproj|solutionrelative:P1157 \u7EC4\u5408\u7684\u8F93\u51FA\\recursionCombination.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,15 +38,28 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "recursionCombination.cpp",
+              "DocumentMoniker": "E:\\Code\\CPlus\\\u6D1B\u8C37C\u002B\u002B\\P1157 \u7EC4\u5408\u7684\u8F93\u51FA\\recursionCombination.cpp",
+              "RelativeDocumentMoniker": "P1157 \u7EC4\u5408\u7684\u8F93\u51FA\\recursionCombination.cpp",
+              "ToolTip": "E:\\Code\\CPlus\\\u6D1B\u8C37C\u002B\u002B\\P1157 \u7EC4\u5408\u7684\u8F93\u51FA\\recursionCombination.cpp",
+              "RelativeToolTip": "P1157 \u7EC4\u5408\u7684\u8F93\u51FA\\recursionCombination.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-18T03:03:08.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "\u6765\u81EAGPT\u7684\u5B89\u6170.md",
-              "DocumentMoniker": "E:\\Code\\CPlus\\\u6D1B\u8C37C\u002B\u002B\\U460128 \u7FFB\u8F6C\u6570\u76F8\u4E58\\\u6765\u81EAGPT\u7684\u5B89\u6170.md",
-              "RelativeDocumentMoniker": "U460128 \u7FFB\u8F6C\u6570\u76F8\u4E58\\\u6765\u81EAGPT\u7684\u5B89\u6170.md",
-              "ToolTip": "E:\\Code\\CPlus\\\u6D1B\u8C37C\u002B\u002B\\U460128 \u7FFB\u8F6C\u6570\u76F8\u4E58\\\u6765\u81EAGPT\u7684\u5B89\u6170.md",
-              "RelativeToolTip": "U460128 \u7FFB\u8F6C\u6570\u76F8\u4E58\\\u6765\u81EAGPT\u7684\u5B89\u6170.md",
-              "ViewState": "AgIAAGMAAAAAAAAAAAAAAGwAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-05-18T01:56:35.292Z",
+              "Title": "matchStickEquation.cpp",
+              "DocumentMoniker": "E:\\Code\\CPlus\\\u6D1B\u8C37C\u002B\u002B\\P1149 \u706B\u67F4\u68D2\u7B49\u5F0F\\matchStickEquation.cpp",
+              "RelativeDocumentMoniker": "P1149 \u706B\u67F4\u68D2\u7B49\u5F0F\\matchStickEquation.cpp",
+              "ToolTip": "E:\\Code\\CPlus\\\u6D1B\u8C37C\u002B\u002B\\P1149 \u706B\u67F4\u68D2\u7B49\u5F0F\\matchStickEquation.cpp*",
+              "RelativeToolTip": "P1149 \u706B\u67F4\u68D2\u7B49\u5F0F\\matchStickEquation.cpp*",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-18T02:17:24.893Z",
               "EditorCaption": ""
             }
           ]
