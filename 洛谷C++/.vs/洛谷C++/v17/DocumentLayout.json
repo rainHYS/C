@@ -1,12 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\Code\\CPlus\\\u6D1B\u8C37C\u002B\u002B\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{AC2B704A-5F11-413E-93DE-CB84092FB0DC}|U460128 \u7FFB\u8F6C\u6570\u76F8\u4E58\\U460128 \u7FFB\u8F6C\u6570\u76F8\u4E58.vcxproj|E:\\Code\\CPlus\\\u6D1B\u8C37C\u002B\u002B\\U460128 \u7FFB\u8F6C\u6570\u76F8\u4E58\\reverseMultiple.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{AC2B704A-5F11-413E-93DE-CB84092FB0DC}|U460128 \u7FFB\u8F6C\u6570\u76F8\u4E58\\U460128 \u7FFB\u8F6C\u6570\u76F8\u4E58.vcxproj|solutionrelative:U460128 \u7FFB\u8F6C\u6570\u76F8\u4E58\\reverseMultiple.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -31,19 +26,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "reverseMultiple.cpp",
-              "DocumentMoniker": "E:\\Code\\CPlus\\\u6D1B\u8C37C\u002B\u002B\\U460128 \u7FFB\u8F6C\u6570\u76F8\u4E58\\reverseMultiple.cpp",
-              "RelativeDocumentMoniker": "U460128 \u7FFB\u8F6C\u6570\u76F8\u4E58\\reverseMultiple.cpp",
-              "ToolTip": "E:\\Code\\CPlus\\\u6D1B\u8C37C\u002B\u002B\\U460128 \u7FFB\u8F6C\u6570\u76F8\u4E58\\reverseMultiple.cpp",
-              "RelativeToolTip": "U460128 \u7FFB\u8F6C\u6570\u76F8\u4E58\\reverseMultiple.cpp",
-              "ViewState": "AgIAAFEAAAAAAAAAAAAAAGAAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-17T12:15:15.292Z",
-              "EditorCaption": ""
             }
           ]
         }

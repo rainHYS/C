@@ -129,6 +129,9 @@
   <ItemGroup>
     <ClCompile Include="reverseMultiple.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="来自GPT的安慰.md" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
