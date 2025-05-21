@@ -129,6 +129,9 @@
   <ItemGroup>
     <ClCompile Include="recursionPermutations.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="P1706 全排列问题.md" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

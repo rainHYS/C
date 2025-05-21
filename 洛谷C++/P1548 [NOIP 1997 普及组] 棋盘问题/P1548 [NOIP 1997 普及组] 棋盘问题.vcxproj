@@ -129,6 +129,9 @@
   <ItemGroup>
     <ClCompile Include="boardSquare.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="P1548 [NOIP 1997 普及组] 棋盘问题.md" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

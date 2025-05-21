@@ -126,7 +126,7 @@
     <ClCompile Include="perket.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="题目.md" />
+    <None Include="P2036 PERKET.md" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

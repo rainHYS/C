@@ -19,4 +19,7 @@
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="P1548 [NOIP 1997 普及组] 棋盘问题.md" />
+  </ItemGroup>
 </Project>

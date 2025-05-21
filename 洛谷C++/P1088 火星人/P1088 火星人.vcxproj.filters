@@ -19,4 +19,7 @@
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="P1088 [NOIP 2004 普及组] 火星人.md" />
+  </ItemGroup>
 </Project>

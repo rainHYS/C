@@ -20,6 +20,6 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="题目.md" />
+    <None Include="P2036 PERKET.md" />
   </ItemGroup>
 </Project>

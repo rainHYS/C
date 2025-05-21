@@ -126,7 +126,7 @@
     <ClCompile Include="elevator.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="题目.md" />
+    <None Include="P1135 奇怪的电梯.md" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

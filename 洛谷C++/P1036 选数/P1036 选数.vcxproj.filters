@@ -19,4 +19,7 @@
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="P1036 [NOIP 2002 普及组] 选数.md" />
+  </ItemGroup>
 </Project>

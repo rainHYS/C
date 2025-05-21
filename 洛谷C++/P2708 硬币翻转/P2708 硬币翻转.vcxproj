@@ -129,6 +129,9 @@
   <ItemGroup>
     <ClCompile Include="reverseCoin.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="P2708 硬币翻转.md" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

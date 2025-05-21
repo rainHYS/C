@@ -129,6 +129,9 @@
   <ItemGroup>
     <ClCompile Include="mars.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="P1088 [NOIP 2004 普及组] 火星人.md" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

@@ -129,6 +129,9 @@
   <ItemGroup>
     <ClCompile Include="roastChicken.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="P2089 烤鸡.md" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

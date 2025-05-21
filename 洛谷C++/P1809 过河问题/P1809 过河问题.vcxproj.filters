@@ -19,4 +19,7 @@
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="P1809 过河问题.md" />
+  </ItemGroup>
 </Project>

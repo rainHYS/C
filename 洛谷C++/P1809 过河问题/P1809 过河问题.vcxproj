@@ -129,6 +129,9 @@
   <ItemGroup>
     <ClCompile Include="greedyPassRiver.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="P1809 过河问题.md" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

@@ -19,4 +19,7 @@
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="P2670 [NOIP 2015 普及组] 扫雷游戏.md" />
+  </ItemGroup>
 </Project>

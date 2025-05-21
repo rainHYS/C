@@ -129,6 +129,9 @@
   <ItemGroup>
     <ClCompile Include="recursionCombination.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="P1157 组合的输出.md" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

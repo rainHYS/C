@@ -19,4 +19,7 @@
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="P1149 [NOIP 2008 提高组] 火柴棒等式.md" />
+  </ItemGroup>
 </Project>

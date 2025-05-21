@@ -129,6 +129,9 @@
   <ItemGroup>
     <ClCompile Include="integerToFraction.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="U459986 将整数换成分数.md" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
