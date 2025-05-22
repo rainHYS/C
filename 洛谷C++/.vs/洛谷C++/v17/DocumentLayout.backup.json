@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "E:\\Code\\CPlus\\\u6D1B\u8C37C\u002B\u002B\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AC2B704A-5F11-413E-93DE-CB84092FB0DC}|U460128 \u7FFB\u8F6C\u6570\u76F8\u4E58\\U460128 \u7FFB\u8F6C\u6570\u76F8\u4E58.vcxproj|E:\\Code\\CPlus\\\u6D1B\u8C37C\u002B\u002B\\U460128 \u7FFB\u8F6C\u6570\u76F8\u4E58\\reverseMultiple.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{AC2B704A-5F11-413E-93DE-CB84092FB0DC}|U460128 \u7FFB\u8F6C\u6570\u76F8\u4E58\\U460128 \u7FFB\u8F6C\u6570\u76F8\u4E58.vcxproj|solutionrelative:U460128 \u7FFB\u8F6C\u6570\u76F8\u4E58\\reverseMultiple.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{1BED0BD2-A377-4AFE-9501-04556DE13333}|U326395 \u68CB\u76D8\u95EE\u9898\\U326395 \u68CB\u76D8\u95EE\u9898.vcxproj|E:\\Code\\CPlus\\\u6D1B\u8C37C\u002B\u002B\\U326395 \u68CB\u76D8\u95EE\u9898\\chess.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1BED0BD2-A377-4AFE-9501-04556DE13333}|U326395 \u68CB\u76D8\u95EE\u9898\\U326395 \u68CB\u76D8\u95EE\u9898.vcxproj|solutionrelative:U326395 \u68CB\u76D8\u95EE\u9898\\chess.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,14 +39,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "reverseMultiple.cpp",
-              "DocumentMoniker": "E:\\Code\\CPlus\\\u6D1B\u8C37C\u002B\u002B\\U460128 \u7FFB\u8F6C\u6570\u76F8\u4E58\\reverseMultiple.cpp",
-              "RelativeDocumentMoniker": "U460128 \u7FFB\u8F6C\u6570\u76F8\u4E58\\reverseMultiple.cpp",
-              "ToolTip": "E:\\Code\\CPlus\\\u6D1B\u8C37C\u002B\u002B\\U460128 \u7FFB\u8F6C\u6570\u76F8\u4E58\\reverseMultiple.cpp",
-              "RelativeToolTip": "U460128 \u7FFB\u8F6C\u6570\u76F8\u4E58\\reverseMultiple.cpp",
-              "ViewState": "AgIAADYAAAAAAAAAAAAAAEIAAAAgAAAAAAAAAA==",
+              "Title": "chess.cpp",
+              "DocumentMoniker": "E:\\Code\\CPlus\\\u6D1B\u8C37C\u002B\u002B\\U326395 \u68CB\u76D8\u95EE\u9898\\chess.cpp",
+              "RelativeDocumentMoniker": "U326395 \u68CB\u76D8\u95EE\u9898\\chess.cpp",
+              "ToolTip": "E:\\Code\\CPlus\\\u6D1B\u8C37C\u002B\u002B\\U326395 \u68CB\u76D8\u95EE\u9898\\chess.cpp*",
+              "RelativeToolTip": "U326395 \u68CB\u76D8\u95EE\u9898\\chess.cpp*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-21T12:54:53.342Z",
+              "WhenOpened": "2025-05-22T09:17:22.251Z",
               "EditorCaption": ""
             }
           ]
