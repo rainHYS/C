@@ -45,6 +45,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P1596 [USACO10OCT] Lake Cou
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "U326395 棋盘问题", "U326395 棋盘问题\U326395 棋盘问题.vcxproj", "{1BED0BD2-A377-4AFE-9501-04556DE13333}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P1025 [NOIP 2001 提高组] 数的划分", "P1025 [NOIP 2001 提高组] 数的划分\P1025 [NOIP 2001 提高组] 数的划分.vcxproj", "{1AC62D6D-BF4F-4DFC-A744-390F85875F1B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -221,6 +223,14 @@ Global
 		{1BED0BD2-A377-4AFE-9501-04556DE13333}.Release|x64.Build.0 = Release|x64
 		{1BED0BD2-A377-4AFE-9501-04556DE13333}.Release|x86.ActiveCfg = Release|Win32
 		{1BED0BD2-A377-4AFE-9501-04556DE13333}.Release|x86.Build.0 = Release|Win32
+		{1AC62D6D-BF4F-4DFC-A744-390F85875F1B}.Debug|x64.ActiveCfg = Debug|x64
+		{1AC62D6D-BF4F-4DFC-A744-390F85875F1B}.Debug|x64.Build.0 = Debug|x64
+		{1AC62D6D-BF4F-4DFC-A744-390F85875F1B}.Debug|x86.ActiveCfg = Debug|Win32
+		{1AC62D6D-BF4F-4DFC-A744-390F85875F1B}.Debug|x86.Build.0 = Debug|Win32
+		{1AC62D6D-BF4F-4DFC-A744-390F85875F1B}.Release|x64.ActiveCfg = Release|x64
+		{1AC62D6D-BF4F-4DFC-A744-390F85875F1B}.Release|x64.Build.0 = Release|x64
+		{1AC62D6D-BF4F-4DFC-A744-390F85875F1B}.Release|x86.ActiveCfg = Release|Win32
+		{1AC62D6D-BF4F-4DFC-A744-390F85875F1B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
