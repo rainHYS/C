@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "E:\\Code\\CPlus\\\u6D1B\u8C37C\u002B\u002B\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1AC62D6D-BF4F-4DFC-A744-390F85875F1B}|P1025 [NOIP 2001 \u63D0\u9AD8\u7EC4] \u6570\u7684\u5212\u5206\\P1025 [NOIP 2001 \u63D0\u9AD8\u7EC4] \u6570\u7684\u5212\u5206.vcxproj|E:\\Code\\CPlus\\\u6D1B\u8C37C\u002B\u002B\\P1025 [NOIP 2001 \u63D0\u9AD8\u7EC4] \u6570\u7684\u5212\u5206\\numDivision.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1AC62D6D-BF4F-4DFC-A744-390F85875F1B}|P1025 [NOIP 2001 \u63D0\u9AD8\u7EC4] \u6570\u7684\u5212\u5206\\P1025 [NOIP 2001 \u63D0\u9AD8\u7EC4] \u6570\u7684\u5212\u5206.vcxproj|solutionrelative:P1025 [NOIP 2001 \u63D0\u9AD8\u7EC4] \u6570\u7684\u5212\u5206\\numDivision.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{F383FBDA-4A78-4E72-9403-9D36E51BFEE2}|P1019 [NOIP 2000 \u63D0\u9AD8\u7EC4] \u5355\u8BCD\u63A5\u9F99\\P1019 [NOIP 2000 \u63D0\u9AD8\u7EC4] \u5355\u8BCD\u63A5\u9F99.vcxproj|E:\\Code\\CPlus\\\u6D1B\u8C37C\u002B\u002B\\P1019 [NOIP 2000 \u63D0\u9AD8\u7EC4] \u5355\u8BCD\u63A5\u9F99\\WordSolitaire.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F383FBDA-4A78-4E72-9403-9D36E51BFEE2}|P1019 [NOIP 2000 \u63D0\u9AD8\u7EC4] \u5355\u8BCD\u63A5\u9F99\\P1019 [NOIP 2000 \u63D0\u9AD8\u7EC4] \u5355\u8BCD\u63A5\u9F99.vcxproj|solutionrelative:P1019 [NOIP 2000 \u63D0\u9AD8\u7EC4] \u5355\u8BCD\u63A5\u9F99\\WordSolitaire.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,14 +39,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "numDivision.cpp",
-              "DocumentMoniker": "E:\\Code\\CPlus\\\u6D1B\u8C37C\u002B\u002B\\P1025 [NOIP 2001 \u63D0\u9AD8\u7EC4] \u6570\u7684\u5212\u5206\\numDivision.cpp",
-              "RelativeDocumentMoniker": "P1025 [NOIP 2001 \u63D0\u9AD8\u7EC4] \u6570\u7684\u5212\u5206\\numDivision.cpp",
-              "ToolTip": "E:\\Code\\CPlus\\\u6D1B\u8C37C\u002B\u002B\\P1025 [NOIP 2001 \u63D0\u9AD8\u7EC4] \u6570\u7684\u5212\u5206\\numDivision.cpp",
-              "RelativeToolTip": "P1025 [NOIP 2001 \u63D0\u9AD8\u7EC4] \u6570\u7684\u5212\u5206\\numDivision.cpp",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Title": "WordSolitaire.cpp",
+              "DocumentMoniker": "E:\\Code\\CPlus\\\u6D1B\u8C37C\u002B\u002B\\P1019 [NOIP 2000 \u63D0\u9AD8\u7EC4] \u5355\u8BCD\u63A5\u9F99\\WordSolitaire.cpp",
+              "RelativeDocumentMoniker": "P1019 [NOIP 2000 \u63D0\u9AD8\u7EC4] \u5355\u8BCD\u63A5\u9F99\\WordSolitaire.cpp",
+              "ToolTip": "E:\\Code\\CPlus\\\u6D1B\u8C37C\u002B\u002B\\P1019 [NOIP 2000 \u63D0\u9AD8\u7EC4] \u5355\u8BCD\u63A5\u9F99\\WordSolitaire.cpp",
+              "RelativeToolTip": "P1019 [NOIP 2000 \u63D0\u9AD8\u7EC4] \u5355\u8BCD\u63A5\u9F99\\WordSolitaire.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-23T08:12:14.415Z",
+              "WhenOpened": "2025-05-23T12:39:25.495Z",
               "EditorCaption": ""
             }
           ]
