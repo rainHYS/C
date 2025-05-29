@@ -49,6 +49,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P1025 [NOIP 2001 提高组]
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P1019 [NOIP 2000 提高组] 单词接龙", "P1019 [NOIP 2000 提高组] 单词接龙\P1019 [NOIP 2000 提高组] 单词接龙.vcxproj", "{F383FBDA-4A78-4E72-9403-9D36E51BFEE2}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P1238 走迷宫", "P1238 走迷宫\P1238 走迷宫.vcxproj", "{0B83D2D0-CFAA-44FD-8545-B674839C3EA4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -241,6 +243,14 @@ Global
 		{F383FBDA-4A78-4E72-9403-9D36E51BFEE2}.Release|x64.Build.0 = Release|x64
 		{F383FBDA-4A78-4E72-9403-9D36E51BFEE2}.Release|x86.ActiveCfg = Release|Win32
 		{F383FBDA-4A78-4E72-9403-9D36E51BFEE2}.Release|x86.Build.0 = Release|Win32
+		{0B83D2D0-CFAA-44FD-8545-B674839C3EA4}.Debug|x64.ActiveCfg = Debug|x64
+		{0B83D2D0-CFAA-44FD-8545-B674839C3EA4}.Debug|x64.Build.0 = Debug|x64
+		{0B83D2D0-CFAA-44FD-8545-B674839C3EA4}.Debug|x86.ActiveCfg = Debug|Win32
+		{0B83D2D0-CFAA-44FD-8545-B674839C3EA4}.Debug|x86.Build.0 = Debug|Win32
+		{0B83D2D0-CFAA-44FD-8545-B674839C3EA4}.Release|x64.ActiveCfg = Release|x64
+		{0B83D2D0-CFAA-44FD-8545-B674839C3EA4}.Release|x64.Build.0 = Release|x64
+		{0B83D2D0-CFAA-44FD-8545-B674839C3EA4}.Release|x86.ActiveCfg = Release|Win32
+		{0B83D2D0-CFAA-44FD-8545-B674839C3EA4}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

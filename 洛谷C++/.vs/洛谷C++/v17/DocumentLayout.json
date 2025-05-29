@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\Code\\CPlus\\\u6D1B\u8C37C\u002B\u002B\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B83D2D0-CFAA-44FD-8545-B674839C3EA4}|P1238 \u8D70\u8FF7\u5BAB\\P1238 \u8D70\u8FF7\u5BAB.vcxproj|E:\\Code\\CPlus\\\u6D1B\u8C37C\u002B\u002B\\P1238 \u8D70\u8FF7\u5BAB\\passMaze.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0B83D2D0-CFAA-44FD-8545-B674839C3EA4}|P1238 \u8D70\u8FF7\u5BAB\\P1238 \u8D70\u8FF7\u5BAB.vcxproj|solutionrelative:P1238 \u8D70\u8FF7\u5BAB\\passMaze.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +14,25 @@
       "DocumentGroups": [
         {
           "DockedWidth": 542,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "passMaze.cpp",
+              "DocumentMoniker": "E:\\Code\\CPlus\\\u6D1B\u8C37C\u002B\u002B\\P1238 \u8D70\u8FF7\u5BAB\\passMaze.cpp",
+              "RelativeDocumentMoniker": "P1238 \u8D70\u8FF7\u5BAB\\passMaze.cpp",
+              "ToolTip": "E:\\Code\\CPlus\\\u6D1B\u8C37C\u002B\u002B\\P1238 \u8D70\u8FF7\u5BAB\\passMaze.cpp",
+              "RelativeToolTip": "P1238 \u8D70\u8FF7\u5BAB\\passMaze.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-29T11:06:26.376Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"

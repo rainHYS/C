@@ -3,8 +3,7 @@
   "WorkspaceRootPath": "E:\\Code\\CPlus\\\u6D1B\u8C37C\u002B\u002B\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F383FBDA-4A78-4E72-9403-9D36E51BFEE2}|P1019 [NOIP 2000 \u63D0\u9AD8\u7EC4] \u5355\u8BCD\u63A5\u9F99\\P1019 [NOIP 2000 \u63D0\u9AD8\u7EC4] \u5355\u8BCD\u63A5\u9F99.vcxproj|E:\\Code\\CPlus\\\u6D1B\u8C37C\u002B\u002B\\P1019 [NOIP 2000 \u63D0\u9AD8\u7EC4] \u5355\u8BCD\u63A5\u9F99\\WordSolitaire.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F383FBDA-4A78-4E72-9403-9D36E51BFEE2}|P1019 [NOIP 2000 \u63D0\u9AD8\u7EC4] \u5355\u8BCD\u63A5\u9F99\\P1019 [NOIP 2000 \u63D0\u9AD8\u7EC4] \u5355\u8BCD\u63A5\u9F99.vcxproj|solutionrelative:P1019 [NOIP 2000 \u63D0\u9AD8\u7EC4] \u5355\u8BCD\u63A5\u9F99\\WordSolitaire.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\\u73ED\u7EA7\u8D44\u6599\\C\u002B\u002B\u8BFE\\250529 \u7A0B\u5E8F\u8BBE\u8BA1\u6311\u6218\u8D5B\u6E90\u7801\\\u9648\u6881\u5609\u6659\\candy\\candy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,14 +38,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "WordSolitaire.cpp",
-              "DocumentMoniker": "E:\\Code\\CPlus\\\u6D1B\u8C37C\u002B\u002B\\P1019 [NOIP 2000 \u63D0\u9AD8\u7EC4] \u5355\u8BCD\u63A5\u9F99\\WordSolitaire.cpp",
-              "RelativeDocumentMoniker": "P1019 [NOIP 2000 \u63D0\u9AD8\u7EC4] \u5355\u8BCD\u63A5\u9F99\\WordSolitaire.cpp",
-              "ToolTip": "E:\\Code\\CPlus\\\u6D1B\u8C37C\u002B\u002B\\P1019 [NOIP 2000 \u63D0\u9AD8\u7EC4] \u5355\u8BCD\u63A5\u9F99\\WordSolitaire.cpp",
-              "RelativeToolTip": "P1019 [NOIP 2000 \u63D0\u9AD8\u7EC4] \u5355\u8BCD\u63A5\u9F99\\WordSolitaire.cpp",
-              "ViewState": "AgIAABUAAAAAAAAAAADwvyQAAAAOAAAAAAAAAA==",
+              "Title": "candy.cpp",
+              "DocumentMoniker": "E:\\\u73ED\u7EA7\u8D44\u6599\\C\u002B\u002B\u8BFE\\250529 \u7A0B\u5E8F\u8BBE\u8BA1\u6311\u6218\u8D5B\u6E90\u7801\\\u9648\u6881\u5609\u6659\\candy\\candy.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u73ED\u7EA7\u8D44\u6599\\C\u002B\u002B\u8BFE\\250529 \u7A0B\u5E8F\u8BBE\u8BA1\u6311\u6218\u8D5B\u6E90\u7801\\\u9648\u6881\u5609\u6659\\candy\\candy.cpp",
+              "ToolTip": "E:\\\u73ED\u7EA7\u8D44\u6599\\C\u002B\u002B\u8BFE\\250529 \u7A0B\u5E8F\u8BBE\u8BA1\u6311\u6218\u8D5B\u6E90\u7801\\\u9648\u6881\u5609\u6659\\candy\\candy.cpp",
+              "RelativeToolTip": "..\\..\\..\\\u73ED\u7EA7\u8D44\u6599\\C\u002B\u002B\u8BFE\\250529 \u7A0B\u5E8F\u8BBE\u8BA1\u6311\u6218\u8D5B\u6E90\u7801\\\u9648\u6881\u5609\u6659\\candy\\candy.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-24T01:35:36.888Z",
+              "WhenOpened": "2025-05-29T07:49:57.438Z",
               "EditorCaption": ""
             }
           ]
