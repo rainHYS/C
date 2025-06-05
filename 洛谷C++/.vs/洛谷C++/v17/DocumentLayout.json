@@ -14,24 +14,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 542,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "passMaze.cpp",
-              "DocumentMoniker": "E:\\Code\\CPlus\\\u6D1B\u8C37C\u002B\u002B\\P1238 \u8D70\u8FF7\u5BAB\\passMaze.cpp",
-              "RelativeDocumentMoniker": "P1238 \u8D70\u8FF7\u5BAB\\passMaze.cpp",
-              "ToolTip": "E:\\Code\\CPlus\\\u6D1B\u8C37C\u002B\u002B\\P1238 \u8D70\u8FF7\u5BAB\\passMaze.cpp",
-              "RelativeToolTip": "P1238 \u8D70\u8FF7\u5BAB\\passMaze.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvxIAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-29T11:06:26.376Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -52,6 +39,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "passMaze.cpp",
+              "DocumentMoniker": "E:\\Code\\CPlus\\\u6D1B\u8C37C\u002B\u002B\\P1238 \u8D70\u8FF7\u5BAB\\passMaze.cpp",
+              "RelativeDocumentMoniker": "P1238 \u8D70\u8FF7\u5BAB\\passMaze.cpp",
+              "ToolTip": "E:\\Code\\CPlus\\\u6D1B\u8C37C\u002B\u002B\\P1238 \u8D70\u8FF7\u5BAB\\passMaze.cpp",
+              "RelativeToolTip": "P1238 \u8D70\u8FF7\u5BAB\\passMaze.cpp",
+              "ViewState": "AgIAABwAAAAAAAAAAADwvzEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-29T11:06:26.376Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -1,54 +1,60 @@
-#include <iostream>
+﻿#include <iostream>
+#include <vector>
 using namespace std;
 
-int m, n;
-int** maze;
-
-#define maxSize 1000
+int m, n, sR, sC, eR, eC;
+vector<vector<int>> maze;
+vector<vector<bool>> status;
 
 typedef struct {
-	int data[maxSize];
-	int front, rear;
-}sqQueue;
+	int x, y;
+} point;
+vector<point> path;
 
-void initQueue(sqQueue& Q) {
-	Q.rear = Q.front = 0;
-}
+void findPath(int cR, int cC) {
+	// 越界、访问过、遇到障碍就跳过
+	if (cR < 0 || cR >= m || cC < 0 || cC >= n || status[cR][cC] || !maze[cR][cC]) {
+		return;
+	}
 
-bool isEmpty(sqQueue Q) {
-	if (Q.rear == Q.front) {
-		return true;
+	// 加入路径、标记为已访问
+	path.push_back({ cR, cC });
+	status[cR][cC] = true;
+
+	// 到达终点：输出路径
+	if (cR == eR && cC == eC) {
+		for (int i = 0; i < path.size(); ++i) {
+			cout << "(" << path[i].x + 1 << "," << path[i].y + 1 << ")";
+			if (i != path.size() - 1) cout << "->";
+		}
+		cout << endl;
 	}
 	else {
-		return false;
+		// 递归探索四个方向（左上右下）
+		findPath(cR, cC - 1);
+		findPath(cR - 1, cC);
+		findPath(cR, cC + 1);
+		findPath(cR + 1, cC);
 	}
-}
 
-bool enQueue(sqQueue& Q, int x) {
-	if ((Q.rear + 1) % maxSize == Q.front) {
-		return false;
-	}
-	Q.data[Q.rear] = x;
-	Q.rear = (Q.rear + 1) % maxSize;
-	return true;
-}
-
-bool deQueue(sqQueue& Q, int x) {
-	if (Q.rear == Q.front) {
-		return false;
-	}
-	x = Q.data[Q.front];
-	Q.front = (Q.front + 1) % maxSize;
-	return true;
+	// 回溯：取消标记、移除路径
+	status[cR][cC] = false;
+	path.pop_back();
 }
 
 int main() {
 	cin >> m >> n;
-	maze = new int* [m + 1];
-	for (int i = 1; i <= m; i++) {
-		maze[i] = new int[n + 1];
-		for (int j = 1; j <= n; j++) {
+	maze.resize(m, vector<int>(n));
+	status.resize(m, vector<bool>(n, false));
+
+	for (int i = 0; i < m; i++) {
+		for (int j = 0; j < n; j++) {
 			cin >> maze[i][j];
 		}
 	}
+
+	cin >> sR >> sC >> eR >> eC;
+	sR--; sC--; eR--; eC--;
+
+	findPath(sR, sC);
 }

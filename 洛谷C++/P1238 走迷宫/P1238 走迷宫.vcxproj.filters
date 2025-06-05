@@ -16,6 +16,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="P1238 走迷宫.md" />
+    <None Include="BFS记录.md" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="passMaze.cpp">
