@@ -1,49 +1,47 @@
 #include <iostream>
+#include <vector>
+#include <queue>
 using namespace std;
 
-int n, m, x, y, cnt=0;
-int** matrix;
-bool** status;
+int n, m, x, y;
+vector<vector<int>> matrix;
+vector<vector<bool>> status;
+typedef struct {
+	int r, c;
+}point;
+queue<point> q;
 
-void recChess(int cy, int cx, int cnt) {
-	if (cy < 0 || cy >= n || cx < 0 || cx >= m || status[cy][cx]) {
-		return;
+int dR[8] = { -2, -1, 1, 2, 2, 1, -1, -2 };
+int dC[8] = { 1, 2, 2, 1, -1, -2, -2, -1 };
+
+void knightTraverse(int cR, int cC) {
+	q.push({ cR,cC });
+	matrix[cR][cC] = 0;
+	status[cR][cC] = true;
+	while (!q.empty()) {
+		point cur = q.front();
+		q.pop();
+		for (int i = 0; i < 8; i++) {
+			int nR = cur.r + dR[i];
+			int nC = cur.c + dC[i];
+			if (nR < 0 || nR >= n || nC < 0 || nC >= m || status[nR][nC]) {
+				continue;
+			}
+			status[nR][nC] = true;
+			matrix[nR][nC] = matrix[cur.r][cur.c] + 1;
+			q.push({ nR, nC });
+		}
 	}
-
-	if (matrix[cy][cx] != -1 && matrix[cy][cx] <= cnt) {
-		return;
-	}
-
-	matrix[cy][cx] = cnt;
-	status[cy][cx] = true;
-
-	recChess(cy + 2, cx + 1, cnt + 1);
-	recChess(cy + 2, cx - 1, cnt + 1);
-	recChess(cy - 2, cx + 1, cnt + 1);
-	recChess(cy - 2, cx - 1, cnt + 1);
-	recChess(cy + 1, cx + 2, cnt + 1);
-	recChess(cy + 1, cx - 2, cnt + 1);
-	recChess(cy - 1, cx + 2, cnt + 1);
-	recChess(cy - 1, cx - 2, cnt + 1);
-
-	status[cy][cx] = false; // ¼ÇµÃ»ØËÝ
 }
 
 
 int main() {
 	cin >> n >> m >> x >> y;
-	matrix = new int* [n];
-	for (int i = 0; i < n; i++) {
-		matrix[i] = new int[m];
-		for (int j = 0; j < m; j++) {
-			matrix[i][j] = -1;
-		}
-	}
-	status = new bool* [n]();
-	for (int i = 0; i < n; i++) {
-		status[i] = new bool[m]();
-	}
-	recChess(y - 1, x - 1, cnt);
+	x--;
+	y--;
+	matrix.resize(n, vector<int>(m, -1));
+	status.resize(n, vector<bool>(m, false));
+	knightTraverse(x, y);
 	for (int i = 0; i < n; i++) {
 		for (int j = 0; j < m; j++) {
 			cout << matrix[i][j] << " ";
