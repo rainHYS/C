@@ -3,6 +3,7 @@
 using namespace std;
 
 int m, n, sR, sC, eR, eC;
+bool isFind = false;
 vector<vector<int>> maze;
 vector<vector<bool>> status;
 
@@ -23,6 +24,7 @@ void findPath(int cR, int cC) {
 
 	// 到达终点：输出路径
 	if (cR == eR && cC == eC) {
+		isFind = true;
 		for (int i = 0; i < path.size(); ++i) {
 			cout << "(" << path[i].x + 1 << "," << path[i].y + 1 << ")";
 			if (i != path.size() - 1) cout << "->";
@@ -57,4 +59,7 @@ int main() {
 	sR--; sC--; eR--; eC--;
 
 	findPath(sR, sC);
+	if (!isFind) {
+		cout << -1 << endl; // ⭐没找到路径，输出 -1
+	}
 }
