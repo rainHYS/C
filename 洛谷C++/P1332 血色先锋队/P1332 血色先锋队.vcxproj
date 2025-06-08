@@ -123,7 +123,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="P1332 血色先锋队.cpp" />
+    <ClCompile Include="scarletOnslaught.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="P1332 血色先锋队.md" />

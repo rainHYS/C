@@ -1,6 +1,7 @@
-#include <iostream>
+ï»¿#include <iostream>
 #include <vector>
 #include <queue>
+#include <climits>
 using namespace std;
 
 int n, m, a, b;
@@ -9,19 +10,17 @@ typedef struct {
 	int r, c;
 }point;
 
-vector<vector<int>> scarletOnslaught;	//ÑªÉ«ÏÈ·æ¾ü
-vector<vector<bool>> undeathPlague;		//ÍöÁéÎÁÒß
+vector<vector<int>> scarletOnslaught;	//è¡€è‰²å…ˆé”‹å†›
+vector<vector<bool>> undeathPlague;		//äº¡çµç˜Ÿç–«
 
 queue<point> q;
 
 int dR[4] = { 0,1,0,-1 };
 int dC[4] = { -1,0,1,0 };
 
-//ÌìÔÖ¾üÍÅ£¬»á½«ÄãÍÌÊÉ£¡
+//å¤©ç¾å†›å›¢ï¼Œä¼šå°†ä½ åå™¬ï¼
 
-void infect(int cR, int cC) {
-	scarletOnslaught[cR][cC] = 0;
-	undeathPlague[cR][cC] = true;
+void infect() {
 	while (!q.empty()) {
 		point cur = q.front();
 		q.pop();
@@ -31,7 +30,9 @@ void infect(int cR, int cC) {
 			if (nR < 0 || nR >= n || nC < 0 || nC >= m || undeathPlague[nR][nC]) {
 				continue;
 			}
-
+			scarletOnslaught[nR][nC] = scarletOnslaught[cur.r][cur.c] + 1;
+			undeathPlague[nR][nC] = true;
+			q.push({ nR,nC });
 		}
 	}
 }
@@ -40,11 +41,23 @@ int main() {
 	cin >> n >> m >> a >> b;
 	scarletOnslaught.resize(n, vector<int>(m, INT_MAX));
 	undeathPlague.resize(n, vector<bool>(m, false));
+
+	// æ‰€æœ‰æ„ŸæŸ“æºå…ˆå…¥é˜Ÿ
 	for (int i = 0; i < a; i++) {
 		int x, y;
 		cin >> x >> y;
 		x--;
 		y--;
-		infect(x, y);
+		q.push({ x, y });
+		scarletOnslaught[x][y] = 0;
+		undeathPlague[x][y] = true;
+	}
+	infect();
+	for (int i = 0; i < b; i++) {
+		int x, y;
+		cin >> x >> y;
+		x--;
+		y--;
+		cout << scarletOnslaught[x][y] << endl;
 	}
 }

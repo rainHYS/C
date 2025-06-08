@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="P1332 血色先锋队.cpp">
+    <ClCompile Include="scarletOnslaught.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

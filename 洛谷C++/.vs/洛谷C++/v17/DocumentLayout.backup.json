@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "E:\\Code\\CPlus\\\u6D1B\u8C37C\u002B\u002B\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6BB73F06-D4D8-4C45-AF94-33EE41FE3EE4}|P1332 \u8840\u8272\u5148\u950B\u961F\\P1332 \u8840\u8272\u5148\u950B\u961F.vcxproj|E:\\Code\\CPlus\\\u6D1B\u8C37C\u002B\u002B\\P1332 \u8840\u8272\u5148\u950B\u961F\\P1332 \u8840\u8272\u5148\u950B\u961F.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6BB73F06-D4D8-4C45-AF94-33EE41FE3EE4}|P1332 \u8840\u8272\u5148\u950B\u961F\\P1332 \u8840\u8272\u5148\u950B\u961F.vcxproj|solutionrelative:P1332 \u8840\u8272\u5148\u950B\u961F\\P1332 \u8840\u8272\u5148\u950B\u961F.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{F57CFF83-2753-431D-8664-9FE5F61B21E9}|P2895 [USACO08FEB] Meteor Shower S\\P2895 [USACO08FEB] Meteor Shower S.vcxproj|E:\\Code\\CPlus\\\u6D1B\u8C37C\u002B\u002B\\P2895 [USACO08FEB] Meteor Shower S\\meteor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F57CFF83-2753-431D-8664-9FE5F61B21E9}|P2895 [USACO08FEB] Meteor Shower S\\P2895 [USACO08FEB] Meteor Shower S.vcxproj|solutionrelative:P2895 [USACO08FEB] Meteor Shower S\\meteor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,14 +43,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "P1332 \u8840\u8272\u5148\u950B\u961F.cpp",
-              "DocumentMoniker": "E:\\Code\\CPlus\\\u6D1B\u8C37C\u002B\u002B\\P1332 \u8840\u8272\u5148\u950B\u961F\\P1332 \u8840\u8272\u5148\u950B\u961F.cpp",
-              "RelativeDocumentMoniker": "P1332 \u8840\u8272\u5148\u950B\u961F\\P1332 \u8840\u8272\u5148\u950B\u961F.cpp",
-              "ToolTip": "E:\\Code\\CPlus\\\u6D1B\u8C37C\u002B\u002B\\P1332 \u8840\u8272\u5148\u950B\u961F\\P1332 \u8840\u8272\u5148\u950B\u961F.cpp",
-              "RelativeToolTip": "P1332 \u8840\u8272\u5148\u950B\u961F\\P1332 \u8840\u8272\u5148\u950B\u961F.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Title": "meteor.cpp",
+              "DocumentMoniker": "E:\\Code\\CPlus\\\u6D1B\u8C37C\u002B\u002B\\P2895 [USACO08FEB] Meteor Shower S\\meteor.cpp",
+              "RelativeDocumentMoniker": "P2895 [USACO08FEB] Meteor Shower S\\meteor.cpp",
+              "ToolTip": "E:\\Code\\CPlus\\\u6D1B\u8C37C\u002B\u002B\\P2895 [USACO08FEB] Meteor Shower S\\meteor.cpp",
+              "RelativeToolTip": "P2895 [USACO08FEB] Meteor Shower S\\meteor.cpp",
+              "ViewState": "AgIAACgAAAAAAAAAAAAYwCwAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-06T09:42:30.464Z",
+              "WhenOpened": "2025-06-08T06:04:17.378Z",
               "EditorCaption": ""
             }
           ]
