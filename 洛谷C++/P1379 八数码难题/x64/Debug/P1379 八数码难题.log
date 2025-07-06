@@ -1,0 +1,3 @@
+﻿  eightDigitalPuzzled.cpp
+E:\Code\CPlus\洛谷C++\P1379 八数码难题\eightDigitalPuzzled.cpp(43,14): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  P1379 八数码难题.vcxproj -> E:\Code\CPlus\洛谷C++\x64\Debug\P1379 八数码难题.exe

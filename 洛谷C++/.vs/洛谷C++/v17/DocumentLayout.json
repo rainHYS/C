@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\Code\\CPlus\\\u6D1B\u8C37C\u002B\u002B\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{499AF9D0-9160-4BA7-9819-4FA1ED7CF344}|P1379 \u516B\u6570\u7801\u96BE\u9898\\P1379 \u516B\u6570\u7801\u96BE\u9898.vcxproj|E:\\Code\\CPlus\\\u6D1B\u8C37C\u002B\u002B\\P1379 \u516B\u6570\u7801\u96BE\u9898\\eightDigitalPuzzled.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{499AF9D0-9160-4BA7-9819-4FA1ED7CF344}|P1379 \u516B\u6570\u7801\u96BE\u9898\\P1379 \u516B\u6570\u7801\u96BE\u9898.vcxproj|solutionrelative:P1379 \u516B\u6570\u7801\u96BE\u9898\\eightDigitalPuzzled.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 542,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,6 +39,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "eightDigitalPuzzled.cpp",
+              "DocumentMoniker": "E:\\Code\\CPlus\\\u6D1B\u8C37C\u002B\u002B\\P1379 \u516B\u6570\u7801\u96BE\u9898\\eightDigitalPuzzled.cpp",
+              "RelativeDocumentMoniker": "P1379 \u516B\u6570\u7801\u96BE\u9898\\eightDigitalPuzzled.cpp",
+              "ToolTip": "E:\\Code\\CPlus\\\u6D1B\u8C37C\u002B\u002B\\P1379 \u516B\u6570\u7801\u96BE\u9898\\eightDigitalPuzzled.cpp",
+              "RelativeToolTip": "P1379 \u516B\u6570\u7801\u96BE\u9898\\eightDigitalPuzzled.cpp",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAkwFAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-06T09:06:10.403Z",
+              "EditorCaption": ""
             }
           ]
         }

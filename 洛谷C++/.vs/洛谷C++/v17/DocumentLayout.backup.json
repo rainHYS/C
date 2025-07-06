@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "E:\\Code\\CPlus\\\u6D1B\u8C37C\u002B\u002B\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FDB5485E-A421-4743-BB56-8B6884F1975A}|P1601 A\u002BB Problem\uFF08\u9AD8\u7CBE\uFF09\\P1601 A\u002BB Problem\uFF08\u9AD8\u7CBE\uFF09.vcxproj|E:\\Code\\CPlus\\\u6D1B\u8C37C\u002B\u002B\\P1601 A\u002BB Problem\uFF08\u9AD8\u7CBE\uFF09\\highPrecisionAddition.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FDB5485E-A421-4743-BB56-8B6884F1975A}|P1601 A\u002BB Problem\uFF08\u9AD8\u7CBE\uFF09\\P1601 A\u002BB Problem\uFF08\u9AD8\u7CBE\uFF09.vcxproj|solutionrelative:P1601 A\u002BB Problem\uFF08\u9AD8\u7CBE\uFF09\\highPrecisionAddition.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{17B52642-DE12-4694-A8F2-385BB3DE37F7}|P2658 \u6C7D\u8F66\u62C9\u529B\u6BD4\u8D5B\\P2658 \u6C7D\u8F66\u62C9\u529B\u6BD4\u8D5B.vcxproj|E:\\Code\\CPlus\\\u6D1B\u8C37C\u002B\u002B\\P2658 \u6C7D\u8F66\u62C9\u529B\u6BD4\u8D5B\\carRally.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{17B52642-DE12-4694-A8F2-385BB3DE37F7}|P2658 \u6C7D\u8F66\u62C9\u529B\u6BD4\u8D5B\\P2658 \u6C7D\u8F66\u62C9\u529B\u6BD4\u8D5B.vcxproj|solutionrelative:P2658 \u6C7D\u8F66\u62C9\u529B\u6BD4\u8D5B\\carRally.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{499AF9D0-9160-4BA7-9819-4FA1ED7CF344}|P1379 \u516B\u6570\u7801\u96BE\u9898\\P1379 \u516B\u6570\u7801\u96BE\u9898.vcxproj|E:\\Code\\CPlus\\\u6D1B\u8C37C\u002B\u002B\\P1379 \u516B\u6570\u7801\u96BE\u9898\\eightDigitalPuzzled.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{499AF9D0-9160-4BA7-9819-4FA1ED7CF344}|P1379 \u516B\u6570\u7801\u96BE\u9898\\P1379 \u516B\u6570\u7801\u96BE\u9898.vcxproj|solutionrelative:P1379 \u516B\u6570\u7801\u96BE\u9898\\eightDigitalPuzzled.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,27 +43,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "highPrecisionAddition.cpp",
-              "DocumentMoniker": "E:\\Code\\CPlus\\\u6D1B\u8C37C\u002B\u002B\\P1601 A\u002BB Problem\uFF08\u9AD8\u7CBE\uFF09\\highPrecisionAddition.cpp",
-              "RelativeDocumentMoniker": "P1601 A\u002BB Problem\uFF08\u9AD8\u7CBE\uFF09\\highPrecisionAddition.cpp",
-              "ToolTip": "E:\\Code\\CPlus\\\u6D1B\u8C37C\u002B\u002B\\P1601 A\u002BB Problem\uFF08\u9AD8\u7CBE\uFF09\\highPrecisionAddition.cpp*",
-              "RelativeToolTip": "P1601 A\u002BB Problem\uFF08\u9AD8\u7CBE\uFF09\\highPrecisionAddition.cpp*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAKAAAAAAAAAA==",
+              "Title": "eightDigitalPuzzled.cpp",
+              "DocumentMoniker": "E:\\Code\\CPlus\\\u6D1B\u8C37C\u002B\u002B\\P1379 \u516B\u6570\u7801\u96BE\u9898\\eightDigitalPuzzled.cpp",
+              "RelativeDocumentMoniker": "P1379 \u516B\u6570\u7801\u96BE\u9898\\eightDigitalPuzzled.cpp",
+              "ToolTip": "E:\\Code\\CPlus\\\u6D1B\u8C37C\u002B\u002B\\P1379 \u516B\u6570\u7801\u96BE\u9898\\eightDigitalPuzzled.cpp*",
+              "RelativeToolTip": "P1379 \u516B\u6570\u7801\u96BE\u9898\\eightDigitalPuzzled.cpp*",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAFEAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-27T06:54:17.803Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "carRally.cpp",
-              "DocumentMoniker": "E:\\Code\\CPlus\\\u6D1B\u8C37C\u002B\u002B\\P2658 \u6C7D\u8F66\u62C9\u529B\u6BD4\u8D5B\\carRally.cpp",
-              "RelativeDocumentMoniker": "P2658 \u6C7D\u8F66\u62C9\u529B\u6BD4\u8D5B\\carRally.cpp",
-              "ToolTip": "E:\\Code\\CPlus\\\u6D1B\u8C37C\u002B\u002B\\P2658 \u6C7D\u8F66\u62C9\u529B\u6BD4\u8D5B\\carRally.cpp",
-              "RelativeToolTip": "P2658 \u6C7D\u8F66\u62C9\u529B\u6BD4\u8D5B\\carRally.cpp",
-              "ViewState": "AgIAAFEAAAAAAAAAAAAAAFkAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-08T11:20:23.983Z",
+              "WhenOpened": "2025-07-06T09:06:10.403Z",
               "EditorCaption": ""
             }
           ]
