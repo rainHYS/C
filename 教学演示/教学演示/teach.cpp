@@ -1,19 +1,25 @@
-#include <iostream>
-#include <algorithm>
-#include <cstring>
+#include<iostream>
 using namespace std;
+
+int step = 0;
+
+void hanoi(int n, char pos1, char pos2, char pos3) {
+	if (n == 1) {
+		step++;
+		cout << pos1 << " To " << pos3 << endl;
+		return;
+	}
+	hanoi(n - 1, pos1, pos3, pos2);
+	step++;
+	cout << pos1 << " To " << pos3 << endl;
+	hanoi(n - 1, pos2, pos1, pos3);
+}
+
 
 int main() {
 	int n;
 	cin >> n;
-	int a[1000];
-	a[0] = 1;
-	a[1] = 1;
-	for (int i = 2; i <= n; i++) {
-		a[i] = a[i - 1] + a[i - 2];
-	}
-	for (int i = 0; i < n; i++) {
-		cout << a[i] << endl;
-	}
+	hanoi(n, '1', '2', '3');
+	cout << step << endl;
 	return 0;
 }
